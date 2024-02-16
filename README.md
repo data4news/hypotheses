@@ -1,6 +1,6 @@
 # Hypotheses
 
-In-class assignment.
+In-class assignment for t-tests.
 
 - See `notebook-1.ipynb` through `notebook-4.ipynb` contain the assignments. 
     - The notebooks get increasingly abstract. 
